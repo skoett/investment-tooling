@@ -1,0 +1,6 @@
+usd_pairs:
+  - EUR
+
+eur_pairs:
+  - DKK
+  - USD
